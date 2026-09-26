@@ -1,0 +1,4 @@
+#!/bin/bash
+function greet(name) {
+  echo "Hello, $name"
+}
